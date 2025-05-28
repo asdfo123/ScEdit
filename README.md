@@ -1,4 +1,4 @@
-# Repository for Paper "Script-based Assessment of Knowledge Editing
+# Repository for Paper "ScEdit: Script-based Assessment of Knowledge Editing
 
 ## Structure
 - data 
