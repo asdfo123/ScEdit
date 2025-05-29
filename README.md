@@ -1,5 +1,7 @@
 # Repository for Paper "ScEdit: Script-based Assessment of Knowledge Editing
 
+Coming soon, stay tuned!
+
 ## Structure
 - data 
   
