@@ -34,7 +34,7 @@ The repository is organized as follows:
 .
 ├── data/
 │   ├── ScEdit-CF.json
-│   └── ScEdit-T.
+│   └── ScEdit-T.json
 └── src/
 └── (Source code coming soon)
 ```
@@ -52,8 +52,8 @@ This directory contains the core datasets for the ScEdit benchmark.
         * `ground_truth` ($o^c$): Correct original answer.
         * `target_new` ($o$): New counterfactual answer.
         * `subject` ($s$): Main entity.
-        * `rephrase_prompts` Script-based prompt: 
-        * `neighborhood_prompts`: Script-based neighborhood prompt
+        * `rephrase_prompts` Script-based prompt.
+        * `neighborhood_prompts`: Script-based neighborhood prompt.
         * `interrupt_step`: Step in `rephrase_prompts` where the fact is truncated.
         * `property`: Type of query.
         * `generation_prompts`: Scipt Qusetions.
