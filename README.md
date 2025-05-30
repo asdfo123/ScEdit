@@ -1,9 +1,10 @@
-# [ACL 2025 Findings] ScEdit: Script-based Assessment of Knowledge Editing
+# ScEdit: Script-based Assessment of Knowledge Editing
 
-**Paper:** [ScEdit: Script-based Assessment of Knowledge Editing](https://arxiv.org/abs/2505.23291)
+**✨ [ACL 2025 Findings] ✨**
 
-**Authors:** Xinye Li¹, Zunwen Zheng¹, Qian Zhang¹, Dekai Zhuang², Jiabao Kang¹, Liyan Xu³, Qingbin Liu³, Xi Chen³, Zhiying Tu¹, Dianhui Chu¹, Dianbo Sui¹*
-¹Harbin Institute of Technology, ²Jilin University, ³Tencent
+**Paper (arXiv):** [**ScEdit: Script-based Assessment of Knowledge Editing**](https://arxiv.org/abs/2505.23291)
+
+
 
 ## Overview
 
