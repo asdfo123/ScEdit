@@ -1,8 +1,10 @@
 # ScEdit: Script-based Assessment of Knowledge Editing
-
 **✨ [ACL 2025 Findings] ✨**
 
-**Paper (arXiv):** [**ScEdit: Script-based Assessment of Knowledge Editing**](https://arxiv.org/abs/2505.23291)
+[![arXiv](https://img.shields.io/badge/arXiv-Paper-red.svg)]([https://arxiv.org/abs/2402.07625](https://arxiv.org/abs/2505.23291))
+![Python 3.9](https://img.shields.io/badge/python-3.9-green.svg)
+
+
 
 
 
