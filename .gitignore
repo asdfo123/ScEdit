@@ -1,0 +1,6 @@
+src/ScEdit/data
+src/ScEdit/results
+__pycache__/
+*.pt
+*.log
+*.ckpt

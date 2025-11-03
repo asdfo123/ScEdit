@@ -34,7 +34,7 @@ The repository is organized as follows:
 .
 ├── data/
 │   ├── ScEdit-CF.json
-│   └── ScEdit-T.
+│   └── ScEdit-T.json
 └── src/
 └── (Source code coming soon)
 ```
